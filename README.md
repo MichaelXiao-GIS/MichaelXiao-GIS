@@ -18,4 +18,4 @@ Michael Xiao, Maurizio Gibin, Justin Van Dijk & Paul A. Longley · GISRUK 2026
 
 ### Connect
 
-[Academic website](https://michaelxiao-gis.github.io/) · [UCL profile](https://profiles.ucl.ac.uk/96557-michael-xiao/about) · [ORCID](https://orcid.org/0009-0001-6383-709X) · [Email](mailto:michael.xiao@ucl.ac.uk)
+[Academic website](https://hsiao.uk/) · [UCL profile](https://profiles.ucl.ac.uk/96557-michael-xiao/about) · [ORCID](https://orcid.org/0009-0001-6383-709X) · [Email](mailto:michael.xiao@ucl.ac.uk)
