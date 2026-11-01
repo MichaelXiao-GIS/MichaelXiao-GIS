@@ -2,7 +2,7 @@
 
 **PhD candidate in Social and Geographic Data Science · GeoDS · UCL Geography**
 
-I’m a PhD candidate at University College London and a GIS and remote sensing engineer specialising in spatial big data engineering and GeoAI applications. Alongside my research, I’m a postgraduate teaching assistant in UCL’s Department of Geography.
+I’m a PhD candidate at University College London and a GIS and remote sensing engineer specialising in spatial big data engineering and GeoAI applications. Alongside my research, I also support teaching at UCL.
 
 ### Research interests
 
